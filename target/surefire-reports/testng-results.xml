@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="18" started-at="2017-12-18T23:11:01Z" finished-at="2017-12-18T23:11:01Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="18" started-at="2017-12-18T23:11:01Z" finished-at="2017-12-18T23:11:01Z">
+      <class name="TestForMaven">
+        <test-method status="PASS" signature="prepareTests()[pri:0, instance:TestForMaven@7bb11784]" name="prepareTests" is-config="true" duration-ms="7" started-at="2017-12-19T00:11:01Z" finished-at="2017-12-19T00:11:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- prepareTests -->
+        <test-method status="PASS" signature="shouldAdd()[pri:0, instance:TestForMaven@7bb11784]" name="shouldAdd" duration-ms="1" started-at="2017-12-19T00:11:01Z" finished-at="2017-12-19T00:11:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldAdd -->
+        <test-method status="PASS" signature="shouldMultiply()[pri:0, instance:TestForMaven@7bb11784]" name="shouldMultiply" duration-ms="1" started-at="2017-12-19T00:11:01Z" finished-at="2017-12-19T00:11:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldMultiply -->
+      </class> <!-- TestForMaven -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
